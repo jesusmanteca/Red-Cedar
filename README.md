@@ -1,6 +1,4 @@
-# Red Cedar
-
-# Professional-README-Generator
+# Red Cedar (eCommerce Back-End)
 
 ## Description 
 
